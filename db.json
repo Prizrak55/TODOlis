@@ -1,0 +1,76 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Visit David",
+      "done": true,
+      "body": "Принести сок через 5 минут или лучше не нести, потому что, да.",
+      "color": "#ff0000",
+      "date": "today"
+    },
+    {
+      "id": 2,
+      "title": "Do Laundry",
+      "done": true,
+      "body": "rewrew",
+      "color": "#366eff",
+      "date": "today"
+    },
+    {
+      "id": 3,
+      "title": "Visit David",
+      "done": true,
+      "body": "Принести сок через 5 минут или лучше не нести, потому что, да.",
+      "color": "#ffeb33",
+      "date": "today"
+    },
+    {
+      "id": 4,
+      "title": "Visit David",
+      "done": true,
+      "body": "Принести сок через 5 минут или лучше не нести, потому что, да.",
+      "color": "#ff0000",
+      "date": "tomorrow"
+    },
+    {
+      "id": 5,
+      "title": "Do Laundry",
+      "done": true,
+      "body": "rewrew",
+      "color": "#366eff",
+      "date": "tomorrow"
+    },
+    {
+      "id": 6,
+      "title": "Visit David",
+      "done": true,
+      "body": "Принести сок через 5 минут или лучше не нести, потому что, да.",
+      "color": "#ffeb33",
+      "date": "tomorrow"
+    },
+    {
+      "id": 7,
+      "title": "Visit David",
+      "done": true,
+      "body": "Принести сок через 5 минут или лучше не нести, потому что, да.",
+      "color": "#ff0000",
+      "date": "09/07"
+    },
+    {
+      "id": 8,
+      "title": "Do Laundry",
+      "done": true,
+      "body": "rewrew",
+      "color": "#366eff",
+      "date": "09/07"
+    },
+    {
+      "id": 9,
+      "title": "Visit David",
+      "done": true,
+      "body": "Принести сок через 5 минут или лучше не нести, потому что, да.",
+      "color": "#ffeb33",
+      "date": "09/07"
+    }
+  ]
+}
